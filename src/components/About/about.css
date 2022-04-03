@@ -1,0 +1,17 @@
+.about {
+    margin-bottom: 100px;
+}
+
+.about_text {
+    display: block;
+    width: 590px;
+    font-weight: 400;
+    font-size: 14px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 40px;
+}
+
+.about_text:nth-child(4) {
+    margin-top: 30px;
+}

@@ -1,0 +1,33 @@
+.footer {
+    padding: 52px 0 21px 0;
+}
+
+.footer .footer_list {
+    position: relative;
+    display: flex;
+    justify-content: center;
+    align-items: flex-end;
+    list-style-type: none;
+}
+
+.footer .footer_link {
+    position: relative;
+    text-decoration: none;
+    color: #000;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.footer .footer_link:hover {
+    color: #333;
+}
+
+.footer .footer_link span {
+    margin-left: 40px;
+}
+
+.footer .footer_logo {
+    position: absolute;
+    bottom: 0px;
+    left: 5px;
+}
