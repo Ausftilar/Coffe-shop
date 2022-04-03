@@ -1,0 +1,10 @@
+.container {
+    display: block;
+    width: 1144px;
+    margin: 0 auto;
+}
+
+.navbar {
+    min-height: 640px;
+    background-image: url('../coffe-shop/public/assets/bg/main-bg.jpg');
+}
